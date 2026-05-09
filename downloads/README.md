@@ -1,10 +1,6 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [bruno_3.3.0_arm64_linux](./bruno_3.3.0_arm64_linux)
 
 ---
 
